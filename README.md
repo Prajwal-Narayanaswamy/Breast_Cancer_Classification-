@@ -12,4 +12,4 @@ The repository is a learning exercise to:
 
 The analysis is divided into two  sections, saved in Google Collab notebooks in this repository
 1. Identifying the problem  and Data Sources, Exploratory Data Analysis, Data Visualization and Machine Learning prediction using Logistic Regression Model
-2. Using Deep Learning Techniques such as Neural Network to predict 
+2. Using Deep Learning Techniques such as Neural Network to predict the output to be Beningn or Malignant.
